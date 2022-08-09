@@ -1,0 +1,20 @@
+main {
+  margin: 0 auto;
+}
+main .dropzone {
+  height: 20vh;
+  background-color: rgb(200, 197, 197);
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+main .dropzone span {
+  font-size: 20px;
+  font-weight: bold;
+}
+main table {
+  border: 1px solid gray;
+}/*# sourceMappingURL=main.css.map */
